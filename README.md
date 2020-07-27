@@ -4,4 +4,4 @@ freeCodeCamp is a nonprofit community that helps people learn to code by complet
 
 ### Project solutions
 
-- [Responsive Web Design Projects](responsive-web-design-projects/README.md)
+- [Responsive Web Design Projects](responsive-web-design-projects)
